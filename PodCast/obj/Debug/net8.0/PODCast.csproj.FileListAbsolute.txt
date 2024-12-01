@@ -1,0 +1,14 @@
+C:\Users\humbe\Desktop\PODCast\bin\Debug\net8.0\PODCast.exe
+C:\Users\humbe\Desktop\PODCast\bin\Debug\net8.0\PODCast.deps.json
+C:\Users\humbe\Desktop\PODCast\bin\Debug\net8.0\PODCast.runtimeconfig.json
+C:\Users\humbe\Desktop\PODCast\bin\Debug\net8.0\PODCast.dll
+C:\Users\humbe\Desktop\PODCast\bin\Debug\net8.0\PODCast.pdb
+C:\Users\humbe\Desktop\PODCast\obj\Debug\net8.0\PODCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humbe\Desktop\PODCast\obj\Debug\net8.0\PODCast.AssemblyInfoInputs.cache
+C:\Users\humbe\Desktop\PODCast\obj\Debug\net8.0\PODCast.AssemblyInfo.cs
+C:\Users\humbe\Desktop\PODCast\obj\Debug\net8.0\PODCast.csproj.CoreCompileInputs.cache
+C:\Users\humbe\Desktop\PODCast\obj\Debug\net8.0\PODCast.dll
+C:\Users\humbe\Desktop\PODCast\obj\Debug\net8.0\refint\PODCast.dll
+C:\Users\humbe\Desktop\PODCast\obj\Debug\net8.0\PODCast.pdb
+C:\Users\humbe\Desktop\PODCast\obj\Debug\net8.0\PODCast.genruntimeconfig.cache
+C:\Users\humbe\Desktop\PODCast\obj\Debug\net8.0\ref\PODCast.dll
